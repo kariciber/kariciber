@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @kariciber
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Tarot Gratis – Arcanos Mayores
 
-<!---
-kariciber/kariciber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aplicación web de tarot gratuito centrada en los Arcanos Mayores.
+Proyecto orientado a ofrecer consultas intuitivas y accesibles desde cualquier dispositivo.
+
+## 🔮 Funcionalidades
+- Tirada de cartas de Arcanos Mayores
+- Interpretación básica de cada carta
+- Uso gratuito y sin registro
+- Interfaz sencilla y visual
+
+## 🌐 Enlace al proyecto
+https://www.esencianaturalkharb.com/2025/12/tarot-gratis-arcanos-mayores.html
+
+## 🛠️ Tecnologías previstas
+- HTML
+- CSS
+- JavaScript
+
+## 🚧 Estado del proyecto
+En desarrollo.
+Actualmente en fase de planificación y estructura inicial.
+
+## 🎯 Objetivo
+Crear una aplicación web de tarot gratuita como base para futuras ampliaciones.
+
+## 📄 Licencia
+Proyecto personal.
